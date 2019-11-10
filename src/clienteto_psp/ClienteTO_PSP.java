@@ -71,6 +71,7 @@ public class ClienteTO_PSP {
             
         }catch (Exception e) {
             System.out.println("Servidor desconectado");
+            // un comentario
         }
     }
     
